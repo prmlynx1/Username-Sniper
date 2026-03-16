@@ -27,7 +27,7 @@ This tool is designed for fast checking with automatic delay handling to avoid r
 
 ## 📥 Download
 
-Download the latest version from the **Releases** section.
+[Download the latest version from the **Releases** section.](https://github.com/prmlynx1/Username-Sniper/releases/tag/v1.0)
 
 Steps:
 
